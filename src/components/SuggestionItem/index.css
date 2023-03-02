@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.items-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Roboto';
+  font-size: 18px;
+  margin: 2px;
+}
+.arrow {
+  height: 20px;
+  width: 20px;
+}
+.arrow-button {
+  height: 40px;
+  width: 40px;
+  border: none;
+  background-color: transparent;
+  outline: none;
+}
